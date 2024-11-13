@@ -1,0 +1,71 @@
+# Archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de IDEs y editores
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Archivos de compilación de Maven
+target/
+build/
+
+# Archivos de dependencias descargadas
+*.jar
+*.war
+*.ear
+
+# Archivos de configuración de Gradle
+.gradle/
+build/
+
+# Archivos de logs
+*.log
+
+# Archivos de Spring Boot
+*.class
+*.jar
+*.war
+*.ear
+
+# Archivos de configuración de entorno y credenciales
+.env
+*.env
+application-*.yml
+application-*.properties
+secret.properties
+
+# Archivos de configuración de sistema
+.mvn/
+!.mvn/wrapper/maven-wrapper.jar
+!gradle/wrapper/gradle-wrapper.jar
+
+# Archivos temporales
+*.tmp
+*.temp
+*.swp
+*~
+
+# Archivos específicos de la JVM
+hs_err_pid*
+
+# Configuraciones específicas de Git
+/.idea/
+
+# Archivos generados por Lombok
+*.lombok
+
+# Archivos de configuración del sistema operativo
+*.bak
+*.pid
+*.seed
+
+# Archivos relacionados con pruebas y cobertura de código
+test-output/
+jacoco.exec
+.jacoco/
